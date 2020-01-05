@@ -45,6 +45,52 @@ translations = {
         "enableNotifications": "Choose the address you want to - *Activate* - notifications:",
         "disableNotifications": "Choose the address you want to - *Disable* - notifications:"
     },
+    "ru": {
+        "startMessage": "Привет. Я помогу вам увидеть всю вашу статистику на mole-pool.net"
+                        "sending these "
+                        "commands:\n\n/newaddr - Добавить новый адрес\n/myaddrs - Просмотреть все адреса\n\n*Edit "
+                        "Addresses*\n/setname - Изменить Адрес\n/setaddress - Изменить "
+                        "address\n/deleteaddr - Удалить адрес\n\n*Stats*\n/seestats - Посмотреть "
+                        "Stats\n\n*Notifications*\n/enablenotification - Включить статистику работников "
+                        "notifications\n/disablenotification - Отключить уведомления о статусе работников",
+        "newAddr": "Хорошо, новый адрес. Пожалуйста, выберите имя для вашего адреса.",
+        "newAddr2": "Все хорошо!! Теперь введите адрес.",
+        "newAddr3": "Готово! Поздравляем вас с новым адресом:\n\nтеперь вы можете начать проверять свою статистику, "
+                    "запустите команду /seestats и выберите свой адрес.\n\nName: *<NAMEADDRESS>*\nAddress: *<ADDRESS>*",
+        "delAddrC": "Выберите адрес для удаления.",
+        "setnameAddrC": "Выберите адрес, на который вы хотите изменить имя.",
+        "setcodeAddrC": "Выберите адрес, на который вы хотите изменить код.",
+        "stats1": "Где вы хотите ознакомиться со статистикой?",
+        "statsaddr": "Мой адрес",
+        "statsp2m": "mole-pool.net",
+        "statsReturn": "<< Вернуться к статистике",
+        "noneAddr": "Вы еще не добавили адрес.\nвы можете использовать команду /newaddr для добавления нового адреса.",
+        "selectAddr": "Выберите адрес из списка ниже:",
+        "noStats": "Извините, но по этому адресу до сих пор нет никакой информации. Попробуйте позже.",
+        "return": "<< Вернуться",
+        "viewAddr": "Вот:\n   - Name: *<NAMEADDRESS>*\n   - Address: *<ADDRESS>*\n\nЧто ты хочешь сделать "
+                    "с адресом?",
+        "viewStats": "Смотрите статистику",
+        "editAddr": "Изменить адрес",
+        "editNameAddr": "Изменить имя",
+        "editCodeAddr": "Изменить код",
+        "delAddr": "Удалить адрес",
+        "delAddr2": "Вы уверены, что хотите удалить этот адрес?\n   - Name: *<NAMEADDRESS>*\n   - "
+                    "Address: *<ADDRESS>*",
+        "yesDelAddr": "Да, удалить адрес",
+        "addrDelOk": "Адрес удален правильно.",
+        "optEdit": "Выбрать параметр:",
+        "newNameAddr": "OK. Отправьте мне новое имя для вашего адреса.",
+        "newCodeAddr": "OK. Отправьте мне новый код для вашего адреса.",
+        "addrUpdate": "Информация о вашем адресе была обновлена.\n\nName: *<NAMEADDRESS>*\nAddress: *<ADDRESS>*",
+        "changeWorkers": "Изменение статуса работников:\n",
+        "notifications": "Уведомления",
+        "descNotifications": "Активация службы уведомлений будет получать сообщение каждый раз, когда происходит изменение "
+                             "состояния в вашем *Workers*.",
+        "statusNotifications": "Уведомления о состоянии: *<STATUS>*",
+        "enableNotifications": "Выберите нужный вам адрес - *Activate* - notifications:",
+        "disableNotifications": "Выберите нужный вам адрес - *Disable* - notifications:"
+    },
     "es": {
         "startMessage": "Puedo ayudarte a ver todas tus estadísticas de pool2mine.net\n\nPuedes controlarme "
                         "enviando "
